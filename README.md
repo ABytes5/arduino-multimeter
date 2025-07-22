@@ -2,6 +2,10 @@
 
 This project is a digital multimeter built using an Arduino UNO. It performs measurements of voltage, resistance, and capacitance, and includes a continuity tester. The system features auto range detection for resistance and capacitance, with a pushbutton interface to cycle between modes. Readings are displayed on a 128x64 OLED screen.
 
+## Diagram 
+
+<img width="3000" height="1989" alt="wiring_diagram" src="https://github.com/user-attachments/assets/7402313f-8a02-49c4-9eff-0c086ee45a05" />
+
 ## Features
 
 - Voltage measurement (DC)
